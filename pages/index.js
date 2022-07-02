@@ -95,7 +95,7 @@ const Home = () => (
             Getir Clone App on Codepen
           </GridItem>
           <GridItem
-            href="https://crypto-currency-tracking-f9r3vt2na-furkancanzirek.vercel.app/"
+            href="crypto-currency-tracking-app.vercel.app"
             title="Crypto Currency App"
             thumbnail={thumbCrypto}
           >
