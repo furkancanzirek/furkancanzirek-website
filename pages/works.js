@@ -18,7 +18,7 @@ const Posts = () => (
       <Section delay={0.1}>
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
           <GridItem
-            href="crypto-currency-tracking-app.vercel.app"
+            href="https://crypto-currency-tracking-app.vercel.app"
             title="CryptoCurrency App"
             thumbnail={thumbCrypto}
           />
@@ -32,7 +32,7 @@ const Posts = () => (
       <Section delay={0.3}>
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
           <GridItem
-            href="https://crypto-currency-tracking-f9r3vt2na-furkancanzirek.vercel.app/"
+            href="https://codepen.io/furkancanzirek/full/NWwxygv"
             title="Movie App"
             thumbnail={thumbMovie}
           />

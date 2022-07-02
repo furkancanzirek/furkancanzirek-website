@@ -75,7 +75,7 @@ const Home = () => (
         </Heading>
         <Paragraph>
           I am a software developer who interests with
-          Javascript,React.js,Vue.js and other Frontend technologies. I have a
+          Javascript, React.js, Vue.js and other Frontend technologies. I have a
           personality that likes research, open to learning and interests in new
           technologies.
         </Paragraph>
@@ -95,7 +95,7 @@ const Home = () => (
             Getir Clone App on Codepen
           </GridItem>
           <GridItem
-            href="crypto-currency-tracking-app.vercel.app"
+            href="https://crypto-currency-tracking-app.vercel.app"
             title="Crypto Currency App"
             thumbnail={thumbCrypto}
           >
