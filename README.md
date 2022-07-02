@@ -38,7 +38,7 @@ $PROJECT_ROOT
 ## Acknowledgments
 
 * [Next.js](https://nextjs.org/)
-* [Takuya Matsuyama]
+* Takuya Matsuyama
 * [Chakra UI](https://chakra-ui.com/)
 * [Three.js](https://threejs.org/)
 * [Framer Motion](https://www.framer.com/motion/)
