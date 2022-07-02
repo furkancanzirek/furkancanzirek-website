@@ -74,7 +74,7 @@ const Home = () => (
           Who am i ?
         </Heading>
         <Paragraph>
-          I am a software developer who interests with Javascript, React.js,Vue.js
+          I am a software developer who interests with Javascript,React.js,Vue.js
           and other Frontend technologies. I have a personality that likes research,
           open to learning and interests in new technologies.
         </Paragraph>
