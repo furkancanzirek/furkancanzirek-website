@@ -103,7 +103,7 @@ const Home = () => (
         </SimpleGrid>
 
         <Box align="center" my={4}>
-          <NextLink href="/posts" passHref scroll={false}>
+          <NextLink href="/works" passHref scroll={false}>
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
               All Projects
             </Button>
