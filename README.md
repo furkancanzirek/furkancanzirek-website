@@ -1,7 +1,8 @@
+![picture](https://github.com/furkancanzirek/furkancanzirek-website/blob/main/furkancanzirek.png)
 <div align="center">
 
   <h3 align="center">Portfolio Web Site</h3>
-![picture](https://github.com/furkancanzirek/furkancanzirek-website/blob/main/furkancanzirek.png)
+
   <p align="center">
     <br />
     <br />
